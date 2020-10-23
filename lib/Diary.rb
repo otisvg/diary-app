@@ -1,7 +1,8 @@
 class Diary
 
   def self.view_entries
-    "diary entry"
+    "Dear diary"
   end
   
+
 end

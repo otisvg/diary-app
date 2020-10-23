@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/dmillen/Course/diary-app/spec/feature_tests/app_feature_test_spec.rb": {
+      "/Users/rebekahgalliano/Projects/Makers/WK4/diary-app/spec/feature_tests/app_feature_test_spec.rb": {
         "lines": [
           1,
           1,
@@ -11,13 +11,17 @@
           null
         ]
       },
-      "/Users/dmillen/Course/diary-app/spec/unit_tests/app_unit_test_spec.rb": {
+      "/Users/rebekahgalliano/Projects/Makers/WK4/diary-app/spec/unit_tests/app_unit_test_spec.rb": {
         "lines": [
+          1,
           1,
           null,
           1,
           1,
           1,
+          1,
+          1,
+          null,
           1,
           null,
           null,
@@ -25,6 +29,6 @@
         ]
       }
     },
-    "timestamp": 1603448865
+    "timestamp": 1603451249
   }
 }
