@@ -14,20 +14,21 @@
       "/Users/maiara/Desktop/diary-app/spec/unit_tests/app_unit_test_spec.rb": {
         "lines": [
           1,
-          null,
-          1,
           1,
           null,
-          null
-        ]
-      },
-      "/Users/maiara/Desktop/diary-app/lib/Diary.rb": {
-        "lines": [
           1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1603451704
+    "timestamp": 1603452742
   }
 }

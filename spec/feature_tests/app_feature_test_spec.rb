@@ -1,6 +1,6 @@
 feature 'visit index' do
-  scenario 'has content hello world' do
+  scenario 'shows list' do
     visit "/"
-    expect(page).to have_content("Hello World")
+    expect(page).to have_content('Dear diary')
   end
 end
