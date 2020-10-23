@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/dmillen/Course/diary-app/spec/feature_tests/app_feature_test_spec.rb": {
+      "/Users/maiara/Desktop/diary-app/spec/feature_tests/app_feature_test_spec.rb": {
         "lines": [
           1,
           1,
@@ -11,7 +11,7 @@
           null
         ]
       },
-      "/Users/dmillen/Course/diary-app/spec/unit_tests/app_unit_test_spec.rb": {
+      "/Users/maiara/Desktop/diary-app/spec/unit_tests/app_unit_test_spec.rb": {
         "lines": [
           1,
           null,
@@ -21,13 +21,13 @@
           null
         ]
       },
-      "/Users/dmillen/Course/diary-app/lib/Diary.rb": {
+      "/Users/maiara/Desktop/diary-app/lib/Diary.rb": {
         "lines": [
           1,
           null
         ]
       }
     },
-    "timestamp": 1603448087
+    "timestamp": 1603451704
   }
 }
